@@ -1,0 +1,12 @@
+numpy
+requests
+pandas
+librosa
+pygit2
+tqdm
+scipy
+Pillow
+scikit-image
+SoundFile
+wheel
+moviepy
